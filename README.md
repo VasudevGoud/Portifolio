@@ -1,7 +1,6 @@
-
 # My Portfolio
 
-Welcome to my portfolio repository! This project showcases my educational background, extracurricular activities, projects, and contact information. It is styled using HTML and CSS.
+Welcome to my portfolio repository! This project showcases my educational background, extracurricular activities, projects, and contact information. It is built using HTML and CSS.
 
 ## 📂 Project Structure
 
@@ -24,12 +23,12 @@ The portfolio consists of the following files:
    ```sh
    cd your-repo-name
    ```
-3. Open **education.html** (or any other HTML file) in your browser.
-
-## 🎨 Customization
-
-- You can modify `style.css` to change the appearance.
-- Add more sections to each HTML file as needed.
+3. Open **education.html** (or any other HTML file) in your browser by double-clicking it or using:
+   ```sh
+   start education.html  # Windows
+   open education.html   # macOS
+   xdg-open education.html  # Linux
+   ```
 
 ## 📢 Live Deployment (GitHub Pages)
 
@@ -42,5 +41,7 @@ If you want to deploy it using GitHub Pages:
    https://your-username.github.io/your-repo-name/
    ```
 
+---
 
+Feel free to reach out via the contact page if you have any questions! 😊
 
