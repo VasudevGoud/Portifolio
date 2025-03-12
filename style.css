@@ -1,0 +1,65 @@
+
+*{
+    margin: 0px;
+}
+
+h1{
+    color:gray;
+}
+h2{
+
+    color:gray;
+}
+
+body{
+    background-color: rgb(23, 23, 48);
+}
+
+
+
+#img{
+    margin: 0px;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    
+  
+}
+#Details{
+    margin: 40px;
+    width: 1400px;
+    margin-left: 20px;
+    
+
+}
+#links
+{
+    margin: 40px;
+    width: 1400px;
+    margin-left: 20px;
+    
+}
+div{
+    display: inline-block;
+}
+
+
+table{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+pre{
+    font-size: 17px;
+}
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 10px;
+    border-color: white;
+    align-items:right;
+}
